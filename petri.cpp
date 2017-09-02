@@ -1,4 +1,4 @@
-#include <token.hpp>
+#include <petri.hpp>
 #include <iostream>
 
 using namespace pn;

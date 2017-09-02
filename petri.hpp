@@ -25,7 +25,7 @@ namespace pn
 
   class Token {
   public:
-    Token(){};
+    Token() {};
     virtual ~Token(){};
   };
 
